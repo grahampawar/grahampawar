@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Graham Pawar.</h1>
-<h3 align="center">A passionate I.T Graduate from India.</h3>
+![MasterHead](https://github.com/grahampawar/grahampawar/blob/main/Git_Banner2.png)
+<h1 align="center">A passionate I.T Graduate from India.</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/grahampawar/grahampawar/blob/main/Banner.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grahampawar&label=Profile%20views&color=0e75b6&style=flat" alt="grahampawar" /> </p>
 
