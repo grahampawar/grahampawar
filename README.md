@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/grahampawar/grahampawar/blob/main/Banner.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grahampawar&label=Profile%20views&color=0e75b6&style=flat" alt="grahampawar" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Logic Building, Code efficiency, Variety of cool projects through the power of I.T etc.**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Logic Building, Code efficiency, Working on variety of cool projects through the power of I.T.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
