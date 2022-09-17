@@ -23,4 +23,4 @@
 
 <p><a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=grahampawar&show_icons=true&locale=en"  alt="grahampawar" /></a><br><br></p>
 
-<p>&nbsp;<a href="#" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grahampawar&" alt="grahampawar" /></a></p>
+<p><a href="#" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grahampawar&" alt="grahampawar" /></a></p>
