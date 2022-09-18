@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/grahampawar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="graham-p-629850184" height="30" width="40" /></a>
 <a href="https://instagram.com/grahampawar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grahampawar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtAw620Y5wBpTwJPSkRiYKg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="graham pawar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/grahampawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="grahampawar" height="30" width="40" /></a>
 <a href="https://www.codecademy.com/profiles/grahampawar" target="_blank"><img  align="center" src="https://getlogovector.com/wp-content/uploads/2020/11/codecademy-logo-vector.png" height="30" width="60" /></a>
 <a href="https://www.codewars.com/users/grahampawar" target="_blank"><img align="center" src="https://www.codewars.com/users/grahampawar/badges/small" height="30" width="240" /></a>
 </p>
